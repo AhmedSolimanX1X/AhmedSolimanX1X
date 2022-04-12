@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
-<h3 align="center">Data analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsolimanx1x&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsolimanx1x" /> </p>
 
