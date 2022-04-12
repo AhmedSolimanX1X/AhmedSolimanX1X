@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **gtest5050@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ahmed-soliman-x1x](www.linkedin.com/in/ahmed-soliman-x1x)
+- 📄 Know about my experiences 
+  * [www.linkedin.com/in/ahmed-soliman-x1x](www.linkedin.com/in/ahmed-soliman-x1x) 
+  * https://public.tableau.com/app/profile/ahmed.solimanx1x
 
 
 
